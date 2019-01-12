@@ -1,3 +1,7 @@
-# Building my R portfolio
-
-importing iris datasets
+1/5
+round(1/7, digits=4) # round to four digits
+sqrt(9) # square root of 9
+sum(2,3,4)
+abs(-4.5)
+myvar = 123
+print(myvar)
